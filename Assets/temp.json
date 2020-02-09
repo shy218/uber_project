@@ -1,0 +1,104 @@
+{
+    "2nd Street and Stevenson Street, San Francisco, CA": {
+        "Oracle Park, 24 Willie Mays Plaza, San Francisco, CA": {
+            "weekday": 1,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 364.9230769230769
+        },
+        "Fisherman's Wharf, 286-298 Jefferson St, San Francisco, CA": {
+            "weekday": 0,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 493.44
+        },
+        "The Palace Of Fine Arts, 3601 Lyon St, San Francisco, CA": {
+            "weekday": 6,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 729.7074066203901
+        }
+    },
+    "Embarcadero, San Francisco, CA": {
+        "Oracle Park, 24 Willie Mays Plaza, San Francisco, CA": {
+            "weekday": 5,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 407.0
+        },
+        "Fisherman's Wharf, 286-298 Jefferson St, San Francisco, CA": {
+            "weekday": 6,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 419.440926476838
+        },
+        "The Palace Of Fine Arts, 3601 Lyon St, San Francisco, CA": {
+            "weekday": 5,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 693.873412192473
+        }
+    },
+    "Fisherman's Wharf, 286-298 Jefferson St, San Francisco, CA": {
+        "Embarcadero, San Francisco, CA": {
+            "weekday": 6,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 451.75736648250466
+        },
+        "Powell BART Station, Market St and Powell St, San Francisco, CA": {
+            "weekday": 0,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 602.2643523634132
+        },
+        "2nd Street and Stevenson Street, San Francisco, CA": {
+            "weekday": 3,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 673.3076923076923
+        }
+    },
+    "Oracle Park, 24 Willie Mays Plaza, San Francisco, CA": {
+        "Embarcadero, San Francisco, CA": {
+            "weekday": 6,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 316.26175803938236
+        },
+        "2nd Street and Stevenson Street, San Francisco, CA": {
+            "weekday": 0,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 347.52
+        },
+        "Powell BART Station, Market St and Powell St, San Francisco, CA": {
+            "weekday": 6,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 492.37092128252345
+        }
+    },
+    "Powell BART Station, Market St and Powell St, San Francisco, CA": {
+        "Oracle Park, 24 Willie Mays Plaza, San Francisco, CA": {
+            "weekday": 0,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 467.88904849600976
+        },
+        "Fisherman's Wharf, 286-298 Jefferson St, San Francisco, CA": {
+            "weekday": 0,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 525.8524831184776
+        },
+        "The Palace Of Fine Arts, 3601 Lyon St, San Francisco, CA": {
+            "weekday": 5,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 762.1635323700245
+        }
+    },
+    "The Palace Of Fine Arts, 3601 Lyon St, San Francisco, CA": {
+        "Embarcadero, San Francisco, CA": {
+            "weekday": 6,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 756.2052698682534
+        },
+        "Powell BART Station, Market St and Powell St, San Francisco, CA": {
+            "weekday": 0,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 839.9757243707795
+        },
+        "2nd Street and Stevenson Street, San Francisco, CA": {
+            "weekday": 6,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 867.4055284034565
+        }
+    }
+}
