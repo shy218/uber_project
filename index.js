@@ -171,8 +171,8 @@ function initMap() {
   var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 7,
     center: {
-      lat: 41.85,
-      lng: -87.65
+      lat: 37.77,
+      lng: -122.41
     }
   });
   directionsRenderer.setMap(map);
